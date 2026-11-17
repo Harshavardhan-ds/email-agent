@@ -1,0 +1,10 @@
+
+streamlit
+langchain
+langgraph
+langchain-groq
+langchain-openai
+python-dotenv
+pydantic
+langgraph-checkpoint-sqlite
+sqlalchemy
